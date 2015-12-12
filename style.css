@@ -1,0 +1,235 @@
+
+body {
+	margin:0 auto;
+	background-image: url("images/background_one.jpg");
+	background-size: cover;
+
+
+}
+
+
+.top_bar {
+	height:500px;
+	width:fixed;
+	
+}
+
+
+#quotes {
+	text-align: center;
+	color:#ccffff;
+	padding-top:10px;
+	font-family: 'Quicksand', sans-serif;
+	margin-top:-5px;
+}
+
+.profiles {
+	height:80px;
+	width:450px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-15px;
+	
+
+}
+#website_photo {
+	height:250px;
+	width:250px;
+	border-radius:25px;
+	border:2px solid #FFFFFF;
+	display:block;
+	margin-bottom:5px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#twitter {
+	height:60px;
+	width:60px;
+	margin-right: -25px;
+
+}
+
+#linkedin {
+	height:70px;
+	width:80px;
+	margin-left:5px
+}
+#duolingo {
+	height:70px;
+	width:80px;
+	border-radius:25px;
+	margin-right:10px;
+	
+}
+
+#cc {
+	height:70px;
+	width:80px;
+	border-radius:25px;
+	margin-right: 10px;
+}
+#links_one {
+	height:70px;
+	width:70px;
+	margin-top:5px;
+	margin-right:10px;
+	
+}
+
+#instagram {
+	height:70px;
+	width:70px;
+	margin-top:5px;
+	
+}
+
+.main_bar {
+	height:500px;
+	width:fixed;
+
+
+}
+	
+.second_bar {
+	height:500px;
+	width:33%;
+	border-top:3px solid #000000;
+	border-left:3px solid #000000;
+	border-right:3px solid #000000;
+	border-bottom:3px solid #000000;
+	float:left;
+	
+}
+
+.third_bar {
+	height:500px;
+	width:33.2%;
+	float:left;
+	border-top:3px solid #000000;
+	border-right:3px solid #000000;
+	border-bottom:3px solid #000000;
+}
+
+.fourth_bar {
+	height:500px;
+	width:32.8%;
+	float:left;
+	border-top:3px solid #000000;
+	border-bottom:3px solid #000000;
+	border-right:3px solid #000000;
+	
+
+}
+#skills {
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 40px;
+	margin-top: -5px;
+	color:#ff3333;
+	text-decoration: underline;
+}
+#about_me {
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 40px;
+	margin-top: -5px;
+	color:#4d94ff;
+	background-color:rgba(0,0,0,0.2);
+	text-decoration: underline;
+}
+
+#about {
+	background-color:rgba(0,0,0,0.3);
+	color:white;
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	font-size:24px;
+	border:2px dotted #FFFFFF;
+}
+
+#education {
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 40px;
+	margin-top: -5px;
+	color:#80ffaa;
+	background-color:rgba(0,0,0,0.2);
+	text-decoration: underline;
+
+}
+
+#word {
+	margin-left:10px;
+	
+}
+
+#excel {
+	float:right;
+	margin-right: 20px;
+	
+}
+
+#powerpoint {
+	
+	margin-left:25px;
+	
+}
+
+
+#html {
+	
+	margin-left:-10px;
+}
+
+#sql {
+	margin-left:10px;
+	height:130px;
+	width:130px;
+}
+#javascript {
+	height:125px;
+	width:125px;
+	margin-left:40px;
+}
+
+#jquery {
+	height:120px;
+	width:120px;
+	margin-left:50px;
+	margin-top:16px;
+	
+}
+
+#general_assembly {
+	height:90px;
+	width:250px;
+	margin-top:-25px;
+	margin-left:70px;
+
+}
+
+#mville {
+	height:90px;
+	width:250px;
+	margin-bottom:20px;
+	margin-left:70px;
+}
+
+#ga {
+	color:white;
+	background-color:rgba(0,0,0,0.1);
+	border:1px solid #FFFFFF;
+	margin-top:-1px;
+	font-family: 'Nunito', sans-serif;
+	font-size:17px;
+}
+
+#ga_two {
+	color:white;
+	background-color:rgba(0,0,0,0.1);
+	border:1px solid #FFFFFF;
+	margin-top:-12px;
+	font-family: 'Nunito', sans-serif;
+	font-size:16px;
+}
